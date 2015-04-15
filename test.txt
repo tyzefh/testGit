@@ -1,2 +1,4 @@
 #1
-Premièree action
+Première action
+#2
+Deuxième action (avec une modification de la première)
