@@ -1,4 +1,6 @@
 #1
 Première action
+#3
+Troisième action
 #2
 Deuxième action (avec une modification de la première)
